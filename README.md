@@ -26,7 +26,7 @@
 
 #### 安装教程
 
-1. 从 从[发行版](https://gitee.com/baiqin1/LANRemoteControlWebService/releases) 下载 “LANRemoteControlWebService.exe”
+1. 从 从[发行版](https://github.com/baiqin2/LANRemoteControlWebService/releases) 下载 “LANRemoteControlWebService.exe”
 2. 在被控 Windows 10/11 x64 电脑上双击运行安装包，按提示完成安装
 3. 启动「局域网远控神器」，点击「启动服务」
 4. 日志出现「服务已启动」后，记下被控机局域网 IP（例如 192.168.1.3）
