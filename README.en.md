@@ -9,7 +9,7 @@ machine's IP to screen-share, control mouse/keyboard, transfer files, and launch
 programs remotely.
 
 - Author: Personal Studio
-- License: Non-commercial personal use only
+- License: Apache-2.0
 - Platform: Windows 10 / 11 x64
 - Default console port: 7281
 
